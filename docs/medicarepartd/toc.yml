@@ -1,0 +1,6 @@
+﻿- name: Medicare Part D
+  items:
+  - name: Create a Fabric Workspace
+    href: fabricws.md
+  - name: Create a Lakehouse
+    href: createlakehouse.md
