@@ -10,9 +10,11 @@ This will pop up a New Lakehouse dialog.  Enter a name like medicarepartd and cl
 
 This will create an open up your new Lakehouse.
 
-```Note that the Lakehouse and the concept aroung OneLake and Delta/
+```
+Note that the Lakehouse and the concept aroung OneLake and Delta/
 Parquet files is the foundation of Data Engineering, Data Science, 
-Data Warehouse, and Real Time Analytics use cases using Fabric```
+Data Warehouse, and Real Time Analytics use cases using Fabric
+```
 
 ![explorelh](https://raw.githubusercontent.com/datasnowman/fabriclakehouse/main/docs/medicarepartd/media/createlakehouse/explorelh.png)
 
