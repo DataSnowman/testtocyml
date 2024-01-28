@@ -1,12 +1,10 @@
 ﻿### Create a Lakehouse
 
-You now should be in your new workspace.  Click on New and choose 
-Lakehouse (Preview).  
+You now should be in your new workspace.  Click on New and choose Lakehouse (Preview).  
 
 ![createlh](https://raw.githubusercontent.com/datasnowman/fabriclakehouse/main/docs/medicarepartd/media/createlakehouse/createlh.png)
 
-This will pop up a New Lakehouse dialog.  Enter a name like 
-medicarepartd and click Create
+This will pop up a New Lakehouse dialog.  Enter a name like medicarepartd and click Create
 
 ![lhname](https://raw.githubusercontent.com/datasnowman/fabriclakehouse/main/docs/medicarepartd/media/createlakehouse/lhname.png)
 

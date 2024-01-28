@@ -9,3 +9,4 @@ taking the workshop prehaps add you intials fabriclakehouse-des).  Make sure
 to chose the Trial License mode under the Advanced area.  Click Apply.
 
 ![createws](https://raw.githubusercontent.com/datasnowman/fabriclakehouse/main/docs/medicarepartd/media/createws/createws.png)
+
