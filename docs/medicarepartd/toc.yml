@@ -1,4 +1,7 @@
-﻿- name: Medicare Part D
+﻿items:
+- name: OneLake documentation
+  href: index.yml
+- name: Overview
   items:
   - name: Create a Fabric Workspace
     href: fabricws.md
